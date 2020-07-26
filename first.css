@@ -1,0 +1,37 @@
+h1{
+    color:#54206E;
+    font-family: 'Rowdies',cursive;
+}
+li{
+    color:#FFFFFF;
+   
+}
+h3{
+    color:rgb(0,0,0);
+    background: rgb(255,100,80);
+    border-color: rgb(0,0,0);
+    border-width:5px;
+    border-style:solid;
+}
+body{
+    background:url(https://www.rd.com/wp-content/uploads/2020/04/GettyImages-1142330016.jpg);
+    background-size: cover;
+}
+a{
+    color:#FFFFFF
+}
+em{
+    color:#FFFFFF;
+}
+p{
+    background: rgb(255,100,80);
+    border-color: rgb(0,0,0);
+    border-width:5px;
+    border-style:solid;
+}
+img{
+    border: 10px solid black;
+    padding: 10px; 
+    
+    margin:10px;
+}
